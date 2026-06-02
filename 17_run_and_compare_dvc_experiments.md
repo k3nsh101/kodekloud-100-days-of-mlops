@@ -41,7 +41,7 @@ The DVC extension's **EXPERIMENTS** section under the DVC view lists every exper
   dvc exp show
   ```
 
-  <img src="./assets/17_dvc_exp_run_output.png" alt="dvc exp show output">
+  <img src="./assets/assets_17/dvc_exp_run_output.png" alt="dvc exp show output">
 
 - Apply the chose experiment
 

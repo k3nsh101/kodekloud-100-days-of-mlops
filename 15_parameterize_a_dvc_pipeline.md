@@ -46,7 +46,7 @@ The DVC extension's **PARAMS** section under the DVC view will surface the value
 
   Output
 
-  <img src="./assets/13_dvc_repro_output.png" alt="dvc repro output" width=594/>
+  <img src="./assets/assets_15/dvc_repro_output.png" alt="dvc repro output" width=594/>
 
   <br />
 
