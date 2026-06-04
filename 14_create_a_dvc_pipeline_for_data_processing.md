@@ -24,7 +24,7 @@ Once the pipeline is valid, the DVC extension's **PIPELINES** section under the 
 
 - Fix the `dvc.yaml`
 
-  ```
+  ```yaml
   stages:
     process_data:
       cmd: python src/data/process_data.py

@@ -22,7 +22,7 @@ Makefile recipes must be indented with a real tab character, not spaces. Make re
 
 Makefile
 
-```
+```make
 # fraud-detection Makefile
 
 .PHONY: setup data train test clean all

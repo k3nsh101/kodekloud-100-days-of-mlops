@@ -26,7 +26,7 @@ Make sure JupyterLab is running before using the button at the top of the lab.
 
 - Change the `jupyter_lab_config.py` file content to
 
-  ```
+  ```py
   c.ServerApp.token = ''
   c.ServerApp.password = ''
   c.ServerApp.disable_check_xsrf = True

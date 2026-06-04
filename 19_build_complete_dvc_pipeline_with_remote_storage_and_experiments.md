@@ -28,7 +28,7 @@ Open the **SeaweedFS Filer** button at the top of the lab and navigate to `/buck
 
 - Update the `dvc.yaml`
 
-  ```
+  ```yaml
   stages:
     ingest:
       cmd: python scripts/ingest.py

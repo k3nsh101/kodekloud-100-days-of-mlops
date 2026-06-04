@@ -22,7 +22,7 @@ The DVC extension's **METRICS** section under the DVC view will surface the same
 
 - Update the `dvc.yaml`
 
-  ```
+  ```yaml
   stages:
     process_data:
       cmd: python src/data/process_data.py

@@ -34,7 +34,7 @@ The `build` package is already installed. Use `python3` rather than `python`.
 
 - pyproject.toml
 
-  ```
+  ```toml
   [project]
   name = "fraud_detection"
   version = "0.1.0"

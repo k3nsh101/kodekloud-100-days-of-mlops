@@ -57,7 +57,7 @@ The xFusionCorp Industries ML platform team maintains a Cookiecutter template th
 
 - Change `cookiecutter.json`
 
-  ```
+  ```json
   {
     "project_name": "my-ml-project",
     "author": "xFusionCorp",

@@ -18,7 +18,7 @@ The result can be confirmed in the `MLflow UI`—once the run is opened, the Par
 
 - Update the `log_experiment.py`
 
-  ```
+  ```python
   """
   MLflow experiment logging — three TODO blocks below record a training
   run with MLflow.

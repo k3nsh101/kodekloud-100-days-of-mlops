@@ -32,7 +32,7 @@ Tip: `pre-commit autoupdate` queries each referenced repository and rewrites the
 - Find the current versions of the hooks and update the details of `.pre-commit-config.yaml` as follows
   Use `pre-commit autoupdate` to rewrite the `rev:` pins to the latest released tag automatically.
 
-  ```
+  ```yaml
   repos:
     - repo: https://github.com/pre-commit/pre-commit-hooks
       rev: v6.0.0

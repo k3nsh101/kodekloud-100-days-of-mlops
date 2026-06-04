@@ -18,7 +18,7 @@ The xFusionCorp Industries ML team enforces code quality with `ruff` and `black`
 
 - Update `pyproject.toml`
 
-  ```
+  ```toml
   [project]
   name = "fraud-detection"
   version = "0.1.0"
